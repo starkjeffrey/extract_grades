@@ -1,0 +1,9 @@
+[project]
+name = "extract-grades"
+version = "0.1.0"
+description = "Extract grades from IFL grade spreadsheets"
+requires-python = ">=3.14"
+dependencies = [
+    "pandas>=2.0.0",
+    "openpyxl>=3.1.0",
+]
